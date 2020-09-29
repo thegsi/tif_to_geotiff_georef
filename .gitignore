@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+config.py
+georef/
+osds_geotiffs/
+osds_tiffs/
+OSDs_with_links.csv
