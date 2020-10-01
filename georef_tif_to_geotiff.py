@@ -1,3 +1,6 @@
+# gdal must match system gdal
+# gdainfo --version
+# pip install gdal==2.4
 import gdal
 import osr
 import pickle
